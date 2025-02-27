@@ -1,7 +1,40 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\dev\\ParkingLot\\ParkingLot\\",
-  "Documents": [],
+  "WorkspaceRootPath": "F:\\DEV\\C#\\ParkingLot\\ParkingLot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4ECE0AE6-1CA5-4E07-B5A1-687557B4730E}|ParkingLot.csproj|f:\\dev\\c#\\parkinglot\\parkinglot\\entities\\parkingticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ECE0AE6-1CA5-4E07-B5A1-687557B4730E}|ParkingLot.csproj|solutionrelative:entities\\parkingticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ECE0AE6-1CA5-4E07-B5A1-687557B4730E}|ParkingLot.csproj|f:\\dev\\c#\\parkinglot\\parkinglot\\entities\\parkinglot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ECE0AE6-1CA5-4E07-B5A1-687557B4730E}|ParkingLot.csproj|solutionrelative:entities\\parkinglot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ECE0AE6-1CA5-4E07-B5A1-687557B4730E}|ParkingLot.csproj|f:\\dev\\c#\\parkinglot\\parkinglot\\entities\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ECE0AE6-1CA5-4E07-B5A1-687557B4730E}|ParkingLot.csproj|solutionrelative:entities\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ECE0AE6-1CA5-4E07-B5A1-687557B4730E}|ParkingLot.csproj|f:\\dev\\c#\\parkinglot\\parkinglot\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4ECE0AE6-1CA5-4E07-B5A1-687557B4730E}|ParkingLot.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ECE0AE6-1CA5-4E07-B5A1-687557B4730E}|ParkingLot.csproj|f:\\dev\\c#\\parkinglot\\parkinglot\\parkinglot.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{4ECE0AE6-1CA5-4E07-B5A1-687557B4730E}|ParkingLot.csproj|solutionrelative:parkinglot.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ECE0AE6-1CA5-4E07-B5A1-687557B4730E}|ParkingLot.csproj|f:\\dev\\c#\\parkinglot\\parkinglot\\parkinglot.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4ECE0AE6-1CA5-4E07-B5A1-687557B4730E}|ParkingLot.csproj|solutionrelative:parkinglot.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ECE0AE6-1CA5-4E07-B5A1-687557B4730E}|ParkingLot.csproj|f:\\dev\\c#\\parkinglot\\parkinglot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ECE0AE6-1CA5-4E07-B5A1-687557B4730E}|ParkingLot.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ECE0AE6-1CA5-4E07-B5A1-687557B4730E}|ParkingLot.csproj|f:\\dev\\c#\\parkinglot\\parkinglot\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4ECE0AE6-1CA5-4E07-B5A1-687557B4730E}|ParkingLot.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +42,111 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\DEV\\C#\\ParkingLot\\ParkingLot\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "F:\\DEV\\C#\\ParkingLot\\ParkingLot\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-27T21:33:40.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ParkingLot.http",
+              "DocumentMoniker": "F:\\DEV\\C#\\ParkingLot\\ParkingLot\\ParkingLot.http",
+              "RelativeDocumentMoniker": "ParkingLot.http",
+              "ToolTip": "F:\\DEV\\C#\\ParkingLot\\ParkingLot\\ParkingLot.http",
+              "RelativeToolTip": "ParkingLot.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-02-27T21:33:51.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ParkingTicket.cs",
+              "DocumentMoniker": "F:\\DEV\\C#\\ParkingLot\\ParkingLot\\Entities\\ParkingTicket.cs",
+              "RelativeDocumentMoniker": "Entities\\ParkingTicket.cs",
+              "ToolTip": "F:\\DEV\\C#\\ParkingLot\\ParkingLot\\Entities\\ParkingTicket.cs*",
+              "RelativeToolTip": "Entities\\ParkingTicket.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T21:33:36.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ParkingLot.cs",
+              "DocumentMoniker": "F:\\DEV\\C#\\ParkingLot\\ParkingLot\\Entities\\ParkingLot.cs",
+              "RelativeDocumentMoniker": "Entities\\ParkingLot.cs",
+              "ToolTip": "F:\\DEV\\C#\\ParkingLot\\ParkingLot\\Entities\\ParkingLot.cs",
+              "RelativeToolTip": "Entities\\ParkingLot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T21:33:16.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.cs",
+              "DocumentMoniker": "F:\\DEV\\C#\\ParkingLot\\ParkingLot\\Entities\\Car.cs",
+              "RelativeDocumentMoniker": "Entities\\Car.cs",
+              "ToolTip": "F:\\DEV\\C#\\ParkingLot\\ParkingLot\\Entities\\Car.cs",
+              "RelativeToolTip": "Entities\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T21:28:20.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ParkingLot",
+              "DocumentMoniker": "F:\\DEV\\C#\\ParkingLot\\ParkingLot\\ParkingLot.csproj",
+              "RelativeDocumentMoniker": "ParkingLot.csproj",
+              "ToolTip": "F:\\DEV\\C#\\ParkingLot\\ParkingLot\\ParkingLot.csproj*",
+              "RelativeToolTip": "ParkingLot.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-27T21:26:28.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "F:\\DEV\\C#\\ParkingLot\\ParkingLot\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "F:\\DEV\\C#\\ParkingLot\\ParkingLot\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-27T21:26:19.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\DEV\\C#\\ParkingLot\\ParkingLot\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\DEV\\C#\\ParkingLot\\ParkingLot\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T21:17:48.14Z",
+              "EditorCaption": ""
             }
           ]
         }

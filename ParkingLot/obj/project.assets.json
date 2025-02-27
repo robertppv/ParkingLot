@@ -748,23 +748,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Robert\\.nuget\\packages\\": {},
+    "C:\\Users\\popov\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dev\\ParkingLot\\ParkingLot\\ParkingLot.csproj",
+      "projectUniqueName": "F:\\DEV\\C#\\ParkingLot\\ParkingLot\\ParkingLot.csproj",
       "projectName": "ParkingLot",
-      "projectPath": "C:\\dev\\ParkingLot\\ParkingLot\\ParkingLot.csproj",
-      "packagesPath": "C:\\Users\\Robert\\.nuget\\packages\\",
-      "outputPath": "C:\\dev\\ParkingLot\\ParkingLot\\obj\\",
+      "projectPath": "F:\\DEV\\C#\\ParkingLot\\ParkingLot\\ParkingLot.csproj",
+      "packagesPath": "C:\\Users\\popov\\.nuget\\packages\\",
+      "outputPath": "F:\\DEV\\C#\\ParkingLot\\ParkingLot\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Robert\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\popov\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
